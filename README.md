@@ -22,6 +22,12 @@
 
 ## 安装（个人使用）
 
+```bash
+npm install dsh-no-preview-badge
+```
+
+也可以从源码安装：
+
 1. 克隆本仓库；
 2. 按你平时安装本地 DSH 插件的方式装入本目录（DSH 会读取 `package.json` 的 `dsh` 字段，并合并 `cordis.patch.yml`）；
 3. 刷新页面，小标消失。卸载插件即可恢复原样。
