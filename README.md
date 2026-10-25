@@ -2,6 +2,8 @@
 
 ![banner](banner.png)
 
+[![npm version](https://img.shields.io/npm/v/dsh-no-preview-badge)](https://www.npmjs.com/package/dsh-no-preview-badge) ![License](https://img.shields.io/npm/l/dsh-no-preview-badge)
+
 去除在 DSH（DeepSeek Harness）上的预览版标签 —— 隐藏主页 Logo 旁的“预览版”小标。
 
 一个极简的 DSH 客户端插件：零依赖，核心只有一条 CSS 规则，卸载即恢复原样。

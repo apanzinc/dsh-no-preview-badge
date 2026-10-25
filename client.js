@@ -1,6 +1,6 @@
 // 注入一条 CSS 规则隐藏“预览版”小标；类名包含 previewBadge 即命中，不依赖构建哈希前缀。
 window.__ModuleLoader__.load({
-  id: '@local/hide-hero-preview-badge',
+  id: 'dsh-no-preview-badge',
   factory() {
     return {
       apply(ctx) {

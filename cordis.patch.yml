@@ -1,4 +1,4 @@
 - insert:
-    - id: hide-hero-preview-badge
-      name: '@local/hide-hero-preview-badge'
+    - id: dsh-no-preview-badge
+      name: 'dsh-no-preview-badge'
       config: {}
