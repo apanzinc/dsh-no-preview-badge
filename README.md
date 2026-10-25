@@ -1,5 +1,7 @@
 # 去除预览版标签
 
+![banner](banner.png)
+
 去除在 DSH（DeepSeek Harness）上的预览版标签 —— 隐藏主页 Logo 旁的“预览版”小标。
 
 一个极简的 DSH 客户端插件：零依赖，核心只有一条 CSS 规则，卸载即恢复原样。
@@ -32,7 +34,13 @@
 | `locale/` | 插件名称与描述（en / zh） |
 | `icon.svg` | 插件图标 |
 
+`README.md`、`LICENSE`、`banner.png` 为仓库文件，不随插件打包。
+
 ## 说明
 
 - 本项目仅供个人使用，欢迎按需修改。
 - 功能与其他项目有所重合；如有更合适的同类项目，欢迎使用其他项目。
+
+## 许可
+
+[MIT](LICENSE) © 2026 apanzinc
