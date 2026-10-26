@@ -42,7 +42,7 @@ npm install dsh-no-preview-badge
 | `locale/` | 插件名称与描述（en / zh） |
 | `icon.svg` | 插件图标 |
 
-`README.md`、`LICENSE`、`banner.png` 为仓库文件，不随插件打包。
+`README.md`、`LICENSE`、`banner.png`、`assets/`、`screenshots.json` 为仓库文件，不随插件打包。
 
 ## 说明
 
